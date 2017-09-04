@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Resistencia</string>
+    <string name="valor">Valor por color:</string>
+    <string name="primerab">Primera banda</string>
+    <string name="segundab">Segunda banda</string>
+    <string name="tercerab">Tercera banda</string>
+    <string name="cuartab">Cuarta banda</string>
+    <string name="resultado">Resultado:</string>
+    <string name="colorv">Color por valor:</string>
+    <string name="valoress">Valor de la resistecia</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="toleranciavalor">Tolerancia</string>
+
+    <string-array name="colores">
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Purpura</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+    <string-array name="colorytol">
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Purpura</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+    </string-array>
+
+    <string-array name="tolerancia">
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+           </string-array>
+
+    <string-array name="sufijos2">
+        <item>Ω</item>
+        <item>KΩ</item>
+        <item>MΩ</item>
+    </string-array>
+
+    <string-array name="btolerancia">
+        <item>± 1%</item>
+        <item>± 2%</item>
+        <item>± 5%</item>
+        <item>± 10%</item>
+
+    </string-array>
+</resources>
